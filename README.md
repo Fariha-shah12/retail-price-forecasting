@@ -35,7 +35,7 @@ S3 (forecasts/YYYY-MM-DD/price_forecasts.csv)
 Streamlit Dashboard (actual vs forecast + Walmart vs Kroger price gap)
 ```
 
-<img width="717" height="247" alt="Architecture-Diagram" src="https://github.com/user-attachments/assets/4b03b378-a4eb-4d41-ab0f-3e2e944f3dea" />
+<img width="717" height="247" alt="Architecture-Diagram.png" src="https://github.com/user-attachments/assets/4b03b378-a4eb-4d41-ab0f-3e2e944f3dea" />
 
 ---
 
