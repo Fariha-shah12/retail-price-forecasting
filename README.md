@@ -2,8 +2,8 @@
 
 An end-to-end data pipeline that scrapes daily grocery prices from Walmart and Kroger across Washington State, forecasts 14-day price trends using Facebook Prophet, and visualizes competitor price gaps on an interactive Streamlit dashboard — all powered by AWS.
 
-> Built as part of the MSDS Capstone Project at Seattle University  
-> Analyzing competitor pricing data to support Costco's pricing strategy
+> Built as part of the Side Project at Seattle University  
+> Analyzing competitor pricing data to support pricing strategy
 
 ---
 
@@ -34,6 +34,8 @@ S3 (forecasts/YYYY-MM-DD/price_forecasts.csv)
         ↓
 Streamlit Dashboard (actual vs forecast + Walmart vs Kroger price gap)
 ```
+
+<img width="717" height="247" alt="Architecture-Diagram" src="https://github.com/user-attachments/assets/4b03b378-a4eb-4d41-ab0f-3e2e944f3dea" />
 
 ---
 
