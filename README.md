@@ -209,6 +209,6 @@ streamlit run src/dashboard.py
 ## 👩‍💻 Built By
 
 **Fariha Shah** — MSDS Student, Seattle University  
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/shahfariha/)
 
-> Capstone Project — Division of Data Science, Seattle University, 2026
+>  MS Data Sciecne - Department of Mathematics, Seattle University, 2026
