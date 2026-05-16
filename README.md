@@ -156,7 +156,7 @@ retail-price-forecasting/
 │   ├── forecast_model.py          ← trains Prophet, saves forecasts to S3
 │   └── dashboard.py               ← Streamlit dashboard
 │
-├── screenshots/                   ← dashboard screenshots
+├── images/                   ← dashboard screenshots
 ├── .gitignore
 ├── requirements.txt
 └── README.md
